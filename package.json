@@ -1,6 +1,7 @@
 {
   "name": "thing",
   "version": "1.0.0",
+  "repository": "https://github.com/rjayatilleka/yamlScripts.git",
   "description": "Desc",
   "main": "index.js",
   "scripts": {
