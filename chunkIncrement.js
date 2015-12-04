@@ -15,6 +15,8 @@ process.stdin.on('end', function() {
     argv.inc = 0 - argv.inc
   }
 
+  console.log('channels:', doc.channels)
+
   for (var i = argv.start; i < argv.end; i++) {
     s = i + '';
 
